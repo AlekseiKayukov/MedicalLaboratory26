@@ -1,0 +1,132 @@
+id	country
+1	Afghanistan
+2	Albania
+3	American Samoa
+4	Angola
+5	Argentina
+6	Armenia
+7	Azerbaijan
+8	Bahrain
+9	Bangladesh
+10	Belarus
+11	Bhutan
+12	Bolivia
+13	Bosnia and Herzegovina
+14	Brazil
+15	Bulgaria
+16	Burundi
+17	Cambodia
+18	Cameroon
+19	Canada
+20	Cape Verde
+21	Cayman Islands
+22	Central African Republic
+23	Chile
+24	China
+25	Colombia
+26	Costa Rica
+27	Croatia
+28	Cuba
+29	Czech Republic
+30	Democratic Republic of the Congo
+31	Denmark
+32	Dominica
+33	Dominican Republic
+34	East Timor
+35	Ecuador
+36	Egypt
+37	El Salvador
+38	Eritrea
+39	Estonia
+40	Ethiopia
+41	Finland
+42	France
+43	Gabon
+44	Gambia
+45	Georgia
+46	Germany
+47	Greece
+48	Guatemala
+49	Haiti
+50	Honduras
+51	Iceland
+52	Indonesia
+53	Iran
+54	Ireland
+55	Israel
+56	Jamaica
+57	Japan
+58	Jordan
+59	Kazakhstan
+60	Kenya
+61	Kosovo
+62	Kuwait
+63	Kyrgyzstan
+64	Lebanon
+65	Liberia
+66	Libya
+67	Lithuania
+68	Macedonia
+69	Madagascar
+70	Malawi
+71	Malaysia
+72	Mali
+73	Marshall Islands
+74	Mauritania
+75	Mauritius
+76	Mexico
+77	Mongolia
+78	Morocco
+79	Myanmar
+80	Namibia
+81	Nepal
+82	Netherlands
+83	New Caledonia
+84	New Zealand
+85	Nicaragua
+86	Nigeria
+87	North Korea
+88	Northern Mariana Islands
+89	Oman
+90	Pakistan
+91	Palestinian Territory
+92	Papua New Guinea
+93	Paraguay
+94	Peru
+95	Philippines
+96	Poland
+97	Portugal
+98	Puerto Rico
+99	Republic of the Congo
+100	Russia
+101	Rwanda
+102	Saint Vincent and the Grenadines
+103	Senegal
+104	Serbia
+105	Sierra Leone
+106	Slovenia
+107	South Africa
+108	South Korea
+109	South Sudan
+110	Spain
+111	Sri Lanka
+112	Suriname
+113	Swaziland
+114	Sweden
+115	Switzerland
+116	Syria
+117	Taiwan
+118	Tanzania
+119	Thailand
+120	Tunisia
+121	Turkey
+122	Uganda
+123	Ukraine
+124	United Arab Emirates
+125	United States
+126	Uruguay
+127	Uzbekistan
+128	Venezuela
+129	Vietnam
+130	Yemen
+131	Zambia

@@ -1,0 +1,3 @@
+id	analyzer
+1	Biorad
+2	Ledetect
