@@ -101,6 +101,7 @@ namespace Медицинская_лаборатория
                     _attempt = "Успешно";
                     var adminWindow = new AdminWindow();
                     adminWindow.Show();
+                    this.Close();
                 }
                 else
                 {
@@ -111,6 +112,7 @@ namespace Медицинская_лаборатория
                         _attempt = "Успешно";
                         var accountantWindow = new AccountantWindow();
                         accountantWindow.Show();
+                        this.Close();
                     }
                     else
                     {
@@ -121,6 +123,7 @@ namespace Медицинская_лаборатория
                             _attempt = "Успешно";
                             var assistantWindow = new AssistantWindow();
                             assistantWindow.Show();
+                            this.Close();
                         }
                         else
                         {
@@ -153,7 +156,6 @@ namespace Медицинская_лаборатория
                     timer.Start();
                     _countEnter = 0;
                 }
-                this.Close();
             }
             catch (Exception ex)
             {
